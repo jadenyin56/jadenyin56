@@ -95,48 +95,6 @@ Current mission:
 
 ---
 
-## 🚀 Projects
-
-### 🗺️ RoamAble
-
-An accessible travel platform helping travellers with mobility needs discover and plan accessible trips.
-
-`React` `Node.js` `Supabase` `Vercel`
-
----
-
-### 🌱 GrowWiseAI
-
-AI-powered agricultural decision platform built at **CXC 2026**.
-
-`Python` `FastAPI` `React` `XGBoost`
-
----
-
-### 💳 SwitchEasy
-
-A platform designed to make switching accounts, payments and financial services easier.
-
-`Full Stack` `APIs` `Automation`
-
----
-
-### 🎮 Java Joyride
-
-Arcade-style mini-games built around object-oriented programming.
-
-`Java` `OOP`
-
----
-
-### 🌙 Circadia
-
-Arduino-powered smart hospital environment system that dynamically manages lighting, sound and temperature.
-
-`Arduino` `C++` `Sensors` `MOSFETs`
-
----
-
 ## 🛠️ Tools & Tech
 
 ### Languages
