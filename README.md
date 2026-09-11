@@ -17,9 +17,9 @@
 <br><br>
 
 [🌐 Portfolio](YOUR_PORTFOLIO_URL) &nbsp;&nbsp;
-[💼 LinkedIn](YOUR_LINKEDIN_URL) &nbsp;&nbsp;
-[📧 Email](mailto:YOUR_EMAIL) &nbsp;&nbsp;
-[💻 LeetCode](YOUR_LEETCODE_URL)
+[💼 LinkedIn](https://www.linkedin.com/in/jadenyin56/) &nbsp;&nbsp;
+[📧 Email](jadenyin56@gmail.com) &nbsp;&nbsp;
+[💻 LeetCode](https://leetcode.com/u/jaden5856/)
 
 </div>
 
