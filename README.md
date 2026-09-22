@@ -123,17 +123,6 @@ Current mission:
 
 ---
 
-## 💻 LeetCode
-
-<div align="center">
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://leetcard.jacoblin.cool/jaden5856?theme=dark&font=Karma&ext=heatmap" />
-</a>
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
