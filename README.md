@@ -8,7 +8,6 @@
 
 ### SWE • Building cool things • Probably debugging something
 
-<img src="https://komarev.com/ghpvc/?username=jadenyin56&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br><br>
 
