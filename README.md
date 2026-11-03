@@ -6,12 +6,6 @@
 
 ### Computer Engineering @ University of Waterloo 🍁
 
-<br><br>
-
-
-
-<br><br>
-
 [🌐 Portfolio](jadenyin.dev) &nbsp;&nbsp;
 [💼 LinkedIn](https://www.linkedin.com/in/jadenyin56/) &nbsp;&nbsp;
 [📧 Email](jadenyin56@gmail.com) &nbsp;&nbsp;
