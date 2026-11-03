@@ -6,16 +6,13 @@
 
 ### Computer Engineering @ University of Waterloo 🍁
 
-### SWE • Building cool things • Probably debugging something
-
-
 <br><br>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
 
 <br><br>
 
-[🌐 Portfolio](YOUR_PORTFOLIO_URL) &nbsp;&nbsp;
+[🌐 Portfolio](jadenyin.dev) &nbsp;&nbsp;
 [💼 LinkedIn](https://www.linkedin.com/in/jadenyin56/) &nbsp;&nbsp;
 [📧 Email](jadenyin56@gmail.com) &nbsp;&nbsp;
 [💻 LeetCode](https://leetcode.com/u/jaden5856/)
@@ -119,6 +116,17 @@ Current mission:
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,idea,arduino" />
 </p>
+
+---
+## 💻 LeetCode
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://leetcard.jacoblin.cool/jaden5856?theme=dark&font=Karma&ext=heatmap" />
+</a>
+
+</div>
 
 ---
 
